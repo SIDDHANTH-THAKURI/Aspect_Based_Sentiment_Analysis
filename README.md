@@ -24,26 +24,35 @@ IMDB_Sentiment_Analysis/
 
 
 📥 Installation and Setup
+**
 Clone the repository:
-
+**
 git clone https://github.com/yourusername/IMDB_Sentiment_Analysis.git
 cd IMDB_Sentiment_Analysis
-Create a virtual environment:
 
+**
+Create a virtual environment:
+**
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+**
 Install dependencies:
-
+**
 pip install -r requirements.txt
-Download and extract the IMDB dataset:
 
+**
+Download and extract the IMDB dataset:
+**
 python sentiment_analysis.py --setup
+
+
 ⚙️ Usage
 To run the sentiment analysis models, execute the main script:
-
 python sentiment_analysis.py
-This script will:
 
+
+This script will:
 Download and preprocess the IMDB dataset.
 Train and evaluate the Basic Sentiment Analysis model.
 Train and evaluate the Aspect-Based Sentiment Analysis model.
@@ -55,21 +64,18 @@ Test Accuracy: 87%
 Aspect-Based Sentiment Analysis (ABSA)
 Test Accuracy: 85%
 
-
 📈 Visualizations
 Positive Words Word Cloud
-
 Negative Words Word Cloud
+Model Accuracy
+Model Loss
 
 🎓 Sample Predictions
 Basic SA Sample Review:
-
 The movie was fantastic! The story was gripping and the characters were well-developed.
 Sentiment: Positive
 
-
 ABSA Sample Review:
-
 The movie had great acting and a captivating storyline, but the music was terrible.
 Sentiment: Positive (based on majority aspects being positive)
 
