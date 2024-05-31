@@ -24,26 +24,18 @@ IMDB_Sentiment_Analysis/
 
 
 📥 Installation and Setup
-**
 Clone the repository:
-**
 git clone https://github.com/yourusername/IMDB_Sentiment_Analysis.git
 cd IMDB_Sentiment_Analysis
 
-**
 Create a virtual environment:
-**
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-**
 Install dependencies:
-**
 pip install -r requirements.txt
 
-**
 Download and extract the IMDB dataset:
-**
 python sentiment_analysis.py --setup
 
 
@@ -89,3 +81,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
   <img src="https://img.shields.io/badge/Made_with-❤️-red.svg" alt="Made with Love">
   <img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="Python">
 </p>
+```
