@@ -349,7 +349,7 @@ try:
 
         print(f'Sentiment score for the example review in ABSA: {"Positive" if sentiment[0] == 1 else "Negative"}')
 
-        #### Note: Experiment 4 Test Accuracy for Basic SA: 87% and ABSA: 94% ####
+        #### Note: Test Accuracy for Basic SA: 87% and ABSA: 85% ####
 
 
     except Exception as e:
