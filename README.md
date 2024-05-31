@@ -76,9 +76,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
+```
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red.svg" alt="Made with Love">
   <img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="Python">
 </p>
-```
