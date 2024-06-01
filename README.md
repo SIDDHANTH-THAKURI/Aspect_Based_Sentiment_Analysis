@@ -25,7 +25,7 @@ IMDB_Sentiment_Analysis/
 
 📥 Installation and Setup
 Clone the repository:
-git clone https://github.com/yourusername/IMDB_Sentiment_Analysis.git
+git clone https://github.com/SIDDHANTH-THAKURI/IMDB_Sentiment_Analysis.git
 cd IMDB_Sentiment_Analysis
 
 Create a virtual environment:
